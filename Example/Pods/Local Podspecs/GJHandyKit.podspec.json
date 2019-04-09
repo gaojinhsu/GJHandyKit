@@ -1,0 +1,22 @@
+{
+  "name": "GJHandyKit",
+  "version": "0.1.0",
+  "summary": "A short description of GJHandyKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/gaojinhsu/GJHandyKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "gaojinhsu": "xugaojin@babytree-inc.com"
+  },
+  "source": {
+    "git": "https://github.com/gaojinhsu/GJHandyKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "GJHandyKit/Classes/**/*"
+}

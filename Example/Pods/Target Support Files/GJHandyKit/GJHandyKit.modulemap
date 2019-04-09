@@ -1,0 +1,6 @@
+framework module GJHandyKit {
+  umbrella header "GJHandyKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

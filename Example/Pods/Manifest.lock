@@ -1,0 +1,16 @@
+PODS:
+  - GJHandyKit (0.1.0)
+
+DEPENDENCIES:
+  - GJHandyKit (from `../`)
+
+EXTERNAL SOURCES:
+  GJHandyKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GJHandyKit: ed3f2e1f497195d70833ae554f86e4119055cf5b
+
+PODFILE CHECKSUM: dd3f0bea32ddf8c230da18e01784704df606a7de
+
+COCOAPODS: 1.6.0
