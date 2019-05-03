@@ -41,6 +41,12 @@ NS_ASSUME_NONNULL_BEGIN
 - (void)setGj_bottom:(CGFloat)bottom;
 - (CGFloat)gj_bottom;
 
+- (void)setGj_centerX:(CGFloat)centerX;
+- (CGFloat)gj_centerX;
+
+- (void)setGj_centerY:(CGFloat)centerY;
+- (CGFloat)gj_centerY;
+
 @end
 
 NS_ASSUME_NONNULL_END

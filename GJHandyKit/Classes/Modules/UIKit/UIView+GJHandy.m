@@ -89,4 +89,21 @@
     return self.gj_y + self.gj_height;
 }
 
+- (void)setGj_centerX:(CGFloat)centerX {
+    self.center = CGPointMake(centerX, self.gj_centerY);
+}
+
+- (CGFloat)gj_centerX {
+    return self.center.x;
+}
+
+- (void)setGj_centerY:(CGFloat)centerY {
+    self.center = CGPointMake(self.gj_centerX, centerY);
+}
+
+- (CGFloat)gj_centerY {
+    return self.center.y;
+}
+
+
 @end
